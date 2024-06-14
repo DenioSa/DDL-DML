@@ -46,3 +46,4 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: во-первых, должно быть название таблицы восстановленной базы, во-вторых, название первичных ключей этих таблиц. Пример: (скриншот/текст)
 
    
+![2.0.](https://github.com/DenioSa/DDL-DML/blob/cd26addfed331d17a98bce399e9e66e1696955b9/1-key.bmp)
