@@ -31,37 +31,18 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ### Решение 1
 
 ![1.1.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.1..bmp)
-![1.2.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.2..bmp)
-![1.3.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.3..bmp)
-![1.4.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.4..bmp)
-![1.5.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.5..bmp)
-![1.6.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.6..bmp)
-![1.7.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.7..bmp)
-![1.8.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.8..bmp)
-![1.9.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.9..bmp)
+![1.2.](https://github.com/DenioSa/DDL-DML/blob/3dab15fcbef7ee57fa9cf66917e896d8aad5e4f4/1.2..bmp)
+![1.3.](https://github.com/DenioSa/DDL-DML/blob/3dab15fcbef7ee57fa9cf66917e896d8aad5e4f4/1.3..bmp)
+![1.4.](https://github.com/DenioSa/DDL-DML/blob/3dab15fcbef7ee57fa9cf66917e896d8aad5e4f4/1.4..bmp)
+![1.5.](https://github.com/DenioSa/DDL-DML/blob/3dab15fcbef7ee57fa9cf66917e896d8aad5e4f4/1.5..bmp)
+![1.6.](https://github.com/DenioSa/DDL-DML/blob/3dab15fcbef7ee57fa9cf66917e896d8aad5e4f4/1.6..bmp)
+![1.7.](https://github.com/DenioSa/DDL-DML/blob/3dab15fcbef7ee57fa9cf66917e896d8aad5e4f4/1.7..bmp)
+![1.8.](https://github.com/DenioSa/DDL-DML/blob/3dab15fcbef7ee57fa9cf66917e896d8aad5e4f4/1.8..bmp)
+![1.9.](https://github.com/DenioSa/DDL-DML/blob/3dab15fcbef7ee57fa9cf66917e896d8aad5e4f4/1.9..bmp)
 
 
 ### Задание 2
 
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: во-первых, должно быть название таблицы восстановленной базы, во-вторых, название первичных ключей этих таблиц. Пример: (скриншот/текст)
 
-Название таблицы           | Название первичного ключа
-customer                    customer_id
-_______________________________________________________       
-actor                      | actor_id
-address                    | address_id
-category                   | category_id
-city                       | city_id
-country                    | country_id
-customer                   | customer_id
-film                       | film_id
-film_actor                 | actor_id, film_id
-film_category              | film_id, category_id
-film_text                  | film_id
-inventory                  | inventory_id
-language                   | language_id
-payment                    | payment_id
-rental                     | rental_id
-staff                      | staff_id
-store                      | store_id
    
