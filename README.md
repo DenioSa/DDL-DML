@@ -30,7 +30,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ### Решение 1
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![1.1.](https://github.com/DenioSa/DDL-DML/blob/82eb753599dbe11f181548478cd0590a4cdf7cc7/1.1..bmp)
 
 
 ### Задание 2
